@@ -2,7 +2,7 @@
   <img src="banner.svg" width="100%" alt="Szenix — Arch Linux, open source and self-hosted systems" />
 </p>
 
-                          /></a>
+                          
 
 <p align="center">
   <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-0B141B?style=for-the-badge&amp;logo=archlinux&amp;logoColor=39E6D3" alt="Arch Linux" /></a>
