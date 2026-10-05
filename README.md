@@ -24,7 +24,6 @@ os        = Arch Linux
 palette   = black / white / turquoise
 interests = self-hosting, privacy, networks, open source
 building  = Veyra — browser protection + local network dashboard
-anime     = Bleach
 approach  = learn → build → measure → improve
 ```
 
