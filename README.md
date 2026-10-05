@@ -2,9 +2,7 @@
   <img src="banner.svg" width="100%" alt="Szenix — Arch Linux, open source and self-hosted systems" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=19&amp;duration=2800&amp;pause=1000&amp;color=39E6D3&amp;center=true&amp;vCenter=true&amp;width=780&amp;height=45&amp;lines=Arch+on+the+machine.+Bleach+on+the+mind.;Building+Veyra.+Learning+by+doing.;My+network.+My+tools.+My+rules." alt="                               /></a>
-</p>
+                          /></a>
 
 <p align="center">
   <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-0B141B?style=for-the-badge&amp;logo=archlinux&amp;logoColor=39E6D3" alt="Arch Linux" /></a>
