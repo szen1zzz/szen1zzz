@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=19&amp;duration=2800&amp;pause=1000&amp;color=39E6D3&amp;center=true&amp;vCenter=true&amp;width=780&amp;height=45&amp;lines=Arch+on+the+machine.+Bleach+on+the+mind.;Building+Veyra.+Learning+by+doing.;My+network.+My+tools.+My+rules." alt="/></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=19&amp;duration=2800&amp;pause=1000&amp;color=39E6D3&amp;center=true&amp;vCenter=true&amp;width=780&amp;height=45&amp;lines=Arch+on+the+machine.+Bleach+on+the+mind.;Building+Veyra.+Learning+by+doing.;My+network.+My+tools.+My+rules." alt="                               /></a>
 </p>
 
 <p align="center">
