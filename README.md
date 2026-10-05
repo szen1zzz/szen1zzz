@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="banner.svg" width="100%" alt="Szenix — Arch Linux, open source and self-hosted systems" />
 </p>
 
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/BLEACH-39E6D3?style=for-the-badge&amp;labelColor=0B141B&amp;color=39E6D3" alt="Bleach fan" />
 </p>
 
-<p align="center"><b>Hey, I'm Szenix.</b> I like systems I can understand, customize and run myself.<br/>Turquoise interfaces, Linux experiments, network tools — and Bleach after hours.</p>
+<p align="center"><b>Hey, I'm Szenix.</b> I like systems I can understand, customize and run myself.<br/>Turquoise interfaces, Linux experiments, network tools 
 
 <img src="divider.svg" width="100%" alt="" />
 
@@ -93,10 +93,6 @@ Both Veyra components are in development. DNS records indicate domain contact; t
 <img src="divider.svg" width="100%" alt="" />
 
 ### `05 / after hours`
-
-<img src="bleach.svg" width="100%" alt="Bleach — Soul Society, Zanpakuto, Bankai. My favorite anime." />
-
-<p align="center"><b>Favorite anime: BLEACH.</b><br/>A terminal on one screen. Soul Society on the other.</p>
 
 <details>
 <summary><b>▸ A little more about my setup</b></summary>
